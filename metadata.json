@@ -1,0 +1,6 @@
+{
+  "name": "Hamdam AI - Shaxsiy O'zbek AI Suhbatdoshi",
+  "description": "O'zbek tilida erkin va samimiy suhbatlashuvchi, fanlar va dasturlashda yordam beruvchi shaxsiy AI hamroh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
